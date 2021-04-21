@@ -6,7 +6,7 @@ Here we'll be using Remix IDE, Ganache, and Metamask to test out our contract on
 
 Here we have a very basic smart contract that is going to take 3 inputs (employee addresses), take any amount sent to the contract, split it into 3, and then send out the equal parts to each employee. We made sure to match our compiler to our version of solidity to minimize any errors in compiling. Once the contract is written, we compile it. 
 <br>
-![Screenshot1](https://github.com/MedakaRiceFish/fintech_hw_20/blob/main/Screenshots/hw20SS1.png)
+![Screenshot1](https://github.com/MedakaRiceFish/fintech_hw_20/blob/main/Screenshots/hw20SS%20-%20updated.png)
 <br>
 Next we want to deploy the smart contract onto a test network. In this case we setup metamask to connect with our local network. By hitting deploy (currently hidden above the transact button) we will deploy our contract to the network for the cost of the current network fee (see as GAS FEE in the metamask extension). It's also good to note that in this case we've input the variables of employee addresses in the lefthand side of remix. 
 <br>
