@@ -3,6 +3,7 @@
 We were tasked with writing a simple smart contract that allows for profit splitting of amounts sent to a specific contract address. 
 
 Starting Testnet Address: 0x067e1064A2Df01bB917Ed79b27ab359990471Bbd
+<p>
 Contract Address: 0xb64Cb5e58C634d685f8B27DdDDBA0E08e5Af2A8E
 
 
