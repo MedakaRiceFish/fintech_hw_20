@@ -15,15 +15,14 @@ Next we want to deploy the smart contract onto a test network. In this case we s
 Here we open up Ganache and demonstrate the balances pre-contract testing (notice that we've tested this once already before screenshotting.)
 <br>
 ![Screenshot3](https://github.com/MedakaRiceFish/fintech_hw_20/blob/main/Screenshots/Hw20SS3%20-%20PreTransaction.png)
-<br>
+
 Next we are going to test sending a specific amount to our contract by selecting deposit in the bottom left unders deployed contracts. This will cost us 15ETH plus gas.
 
-<br>
 ![Screenshot5](https://github.com/MedakaRiceFish/fintech_hw_20/blob/main/Screenshots/hw20SS5%20-%20Testing%20Deposit.png)
-<br>
+
 Finally we can see that the contract executed successfully and we ended up with +5ETH in each of our employee addresses. 
-<br>
+
 ![Screenshot6](https://github.com/MedakaRiceFish/fintech_hw_20/blob/main/Screenshots/hw20SS6%20-%20Wallets%20After.png)
-<br>
+
 We can also look at the Tx Hash to verify that the from address sent 15ETH to the Contract Address and not individually to the employee wallets. 
 ![Screenshot7](https://github.com/MedakaRiceFish/fintech_hw_20/blob/main/Screenshots/hw20SS7%20-%20Tx%20Hash.png)
