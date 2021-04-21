@@ -2,6 +2,10 @@
 
 We were tasked with writing a simple smart contract that allows for profit splitting of amounts sent to a specific contract address. 
 
+Starting Testnet Address: 0x067e1064A2Df01bB917Ed79b27ab359990471Bbd
+Contract Address: 0xb64Cb5e58C634d685f8B27DdDDBA0E08e5Af2A8E
+
+
 Here we'll be using Remix IDE, Ganache, and Metamask to test out our contract on the local private test network.
 
 Here we have a very basic smart contract that is going to take 3 inputs (employee addresses), take any amount sent to the contract, split it into 3, and then send out the equal parts to each employee. We made sure to match our compiler to our version of solidity to minimize any errors in compiling. Once the contract is written, we compile it. 
